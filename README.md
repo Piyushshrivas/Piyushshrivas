@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Piyush</h1>
+<h1 align="center">Hello 👋, I'm Piyush</h1>
 
 <h3 align="center">Frontend Developer with a passion for designing beautiful and functional user experiences.</h3>
-<p align="left"> <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648657506206/DRT1LznNL.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" /> </p>
+<p align="left"> <img src="https://lottiefiles.com/free-animation/qualita-hero-lottie-QTqRPnuF9B" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushshrivas&label=Profile%20views&color=0e75b6&style=flat" alt="piyushshrivas" /> </p>
 
