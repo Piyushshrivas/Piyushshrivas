@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Piyush</h1>
 
 <h3 align="center">Frontend Developer with a passion for designing beautiful and functional user experiences.</h3>
-<p align="left"> <img src="https://lottiefiles.com/free-animation/qualita-hero-lottie-QTqRPnuF9B" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/userupload/8973493/file/original-138918a921addade8fa3881afdba1c6f.png?resize=1200x900&vertical=center" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushshrivas&label=Profile%20views&color=0e75b6&style=flat" alt="piyushshrivas" /> </p>
 
