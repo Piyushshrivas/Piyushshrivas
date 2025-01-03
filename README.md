@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushshrivas&label=Profile%20views&color=0e75b6&style=flat" alt="piyushshrivas" /> </p>
 
-- 🌱 I’m currently learning **React.js, React-redux**
+- 🌱 I’m currently learning **Reactjs, Nextjs**
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **C++, Javascript, Reactjs**
 
 - 📫 How to reach me **shrivastavvansh02@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12hQCzTqQSSmPS4mRIj0Yy1QBAp2FI48H/view?usp=sharing](https://drive.google.com/file/d/12hQCzTqQSSmPS4mRIj0Yy1QBAp2FI48H/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SdTr_dggL8oDJf6CQjpwkFKSBEw1IRQj/view?usp=sharing](https://drive.google.com/file/d/1SdTr_dggL8oDJf6CQjpwkFKSBEw1IRQj/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny.**
 
