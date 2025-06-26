@@ -1,4 +1,14 @@
-<h1 align="center">Hello 👋, I'm Piyush</h1>
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+
+<div align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</div>
+
+ <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Piyush!;Frontend%20Developer;Backend%20Developer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC"></a>
+</p>
 
 <h3 align="center">Frontend Developer with a passion for designing beautiful and functional user experiences.</h3>
 <p align="left"> <img src="https://cdn.dribbble.com/userupload/8973493/file/original-138918a921addade8fa3881afdba1c6f.png?resize=1200x900&vertical=center" /> </p>
