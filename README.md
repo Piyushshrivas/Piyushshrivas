@@ -55,7 +55,7 @@
 </div>
 
 <br/>
-<h2 align="left">🌐 Connect with me:</h2>
+<h2 align="left"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnE1djdhcmEzbDk3NDY4MHhuMHA2cnJrNW54ZXVkcmw3ZDVzdDlpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SA5IWJfBbNCgLpqKjl/giphy.gif" width="25"> Connect with me:</h2>
 <div align="center">
 	<a href="https://github.com/Piyushshrivas"><img alt="github" width="10%" style="padding:5" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	  <a href="mailto:shrivastavvansh02@@gmail.com"><img alt="github" width="10%" style="padding:5" src="https://img.icons8.com/clouds/100/000000/email.png"/></a>
@@ -68,7 +68,7 @@
 </p>
 -->
 
-<h2><strong>📊 My Github Stats :</strong></h2><br><br>
+<h2><strong><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmVpMWIxdTlhMnh5M3oxNXk3MWI5a3huOHhmeDJ6cTNkYmpyZGlneCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/fAiJPC0WSLrApPXCpr/giphy.gif" width="35"> My Github Stats :</strong></h2><br><br>
 <div align=center>
 
 <!--
