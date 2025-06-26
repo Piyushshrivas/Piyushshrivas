@@ -11,7 +11,7 @@
 </p>
 <h3><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</h3>
 
-<h2 align="left">📖 Talking about Personal Stuffs:</h2>
+<h2 align="left"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNqMTdscHo5OW5oNHdxcDRteTBza29rcnExNHZ4eWljZ2lrZzUxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGbU8CyGpRdgh5wY4f/giphy.gif" width ="35"> Talking about Personal Stuffs:</h2>
 
   💡 &nbsp;**I like to explore new technologies and develop software solutions and quick hacks.**\
   🌱 &nbsp;**I'm on track for learning more about Full Stack Development, Systems Design, and Cloud Architecture.**\
