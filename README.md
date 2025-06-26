@@ -13,16 +13,24 @@
 
 <h2 align="left">Talking about Personal Stuffs:</h2>
 
-- 🌱 I’m currently learning **Reactjs, Nextjs**
-
-- 💬 Ask me about **C++, Javascript, Reactjs**
-
-- 📫 How to reach me **shrivastavvansh02@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SdTr_dggL8oDJf6CQjpwkFKSBEw1IRQj/view?usp=sharing](https://drive.google.com/file/d/1SdTr_dggL8oDJf6CQjpwkFKSBEw1IRQj/view?usp=sharing)
-
-- ⚡ Fun fact **I am funny.**
-
+  💡 &nbsp;**I like to explore new technologies and develop software solutions and quick hacks.**\
+  🌱 &nbsp;**I'm on track for learning more about Full Stack Development, Systems Design, and Cloud Architecture.**\
+  👯 &nbsp;**𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 Frontend 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, Backend Development.**\
+  ✉️ &nbsp;**You can shoot me an email at [Mail](shrivastavvansh02@gmail.com)! I'll try to respond as soon as I can.**\
+  📄 &nbsp;**Please have a look at my [Résumé](https://drive.google.com/file/d/1SdTr_dggL8oDJf6CQjpwkFKSBEw1IRQj/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!**\
+  😄 &nbsp;**𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : 𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**\
+  ⚡ &nbsp;**𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : 𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : 𝙸𝚝 𝙴𝚗𝚍𝚜.**
+  
+  <!--
+  🏆 My certifications: 
+<ul>
+  <li>SOA: Exam FM, Exam P</li>
+  <li>ICDL: Cloud Computing, Digital Marketing, Spreadsheets, Presentation and Online Collaboration</li>
+  <li>Coursera: SAS Visual Business Analytics</li>
+  <li>DataCamp: Shiny Fundamentals, Statistics Fundamentas and Spreadsheet Fundamentals with R Track</li>
+</ul>
+💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/JayantGoel001/JayantGoel001/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+-->
 <hr>
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Stuff I Know</h2>  
@@ -59,7 +67,9 @@
 </p>
 -->
 <hr>
-<strong>📊 My Github Stats :</strong><br><br>
+
+<h2><strong>📊 My Github Stats :</strong></h2><br><br>
+<div align=center>
 
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushshrivas&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="piyushshrivas" /></p>
@@ -69,7 +79,7 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kathryn-Jie&theme=radical&hide_border=true"/><br><br>
 
-
+</div>
 
 <hr>
 
