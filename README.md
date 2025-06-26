@@ -15,6 +15,7 @@
 
   💡 &nbsp;**I like to explore new technologies and develop software solutions and quick hacks.**\
   🌱 &nbsp;**I'm on track for learning more about Full Stack Development, Systems Design, and Cloud Architecture.**\
+  🎓 &nbsp;**Bachelor of Engineering in Computer Science and Engineering, Major GPA 3.37/4.0**
   👯 &nbsp;**𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 Frontend 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, Backend Development.**\
   ✉️ &nbsp;**You can shoot me an email at [Mail](shrivastavvansh02@gmail.com)! I'll try to respond as soon as I can.**\
   📄 &nbsp;**Please have a look at my [Résumé](https://drive.google.com/file/d/1SdTr_dggL8oDJf6CQjpwkFKSBEw1IRQj/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!**\
