@@ -24,13 +24,6 @@
 - ⚡ Fun fact **I am funny.**
 
 <hr>
-  
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/piyush-profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush shrivastav" height="30" width="40" /></a>
-</p>
-
-<hr>
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Stuff I Know</h2>  
 <div align="center">
@@ -54,6 +47,17 @@
 </div>
 
 <br/>
+<hr>
+
+  <h2 align="left">Connect with me:</h2>
+  <p align="center">
+	<a href=""><img alt="github" width="10%" style="padding:5" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/piyush-profile/"><img alt="linkedin" width="10%" style="padding:5" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<!--
+<p align="left">
+<a href="https://www.linkedin.com/in/piyush-profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush shrivastav" height="30" width="40" /></a>
+</p>
+-->
 <hr>
 <strong>📊 My Github Stats :</strong><br><br>
 
