@@ -60,6 +60,7 @@
   <h2 align="left">Connect with me:</h2>
   <p align="center">
 	<a href=""><img alt="github" width="10%" style="padding:5" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	  <a href="mailto:shrivastavvansh02@@gmail.com"><img alt="github" width="10%" style="padding:5" src="https://img.icons8.com/clouds/100/000000/email.png"/></a>
 	<a href="https://www.linkedin.com/in/piyush-profile/"><img alt="linkedin" width="10%" style="padding:5" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<!--
 <p align="left">
