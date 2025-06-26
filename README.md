@@ -11,7 +11,7 @@
 </p>
 <h3><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</h3>
 
-<h2 align="left">Talking about Personal Stuffs:</h2>
+<h2 align="left">📖 Talking about Personal Stuffs:</h2>
 
   💡 &nbsp;**I like to explore new technologies and develop software solutions and quick hacks.**\
   🌱 &nbsp;**I'm on track for learning more about Full Stack Development, Systems Design, and Cloud Architecture.**\
@@ -54,7 +54,7 @@
 </div>
 
 <br/>
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">🌐 Connect with me:</h2>
 <div align="center">
 	<a href="https://github.com/Piyushshrivas"><img alt="github" width="10%" style="padding:5" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	  <a href="mailto:shrivastavvansh02@@gmail.com"><img alt="github" width="10%" style="padding:5" src="https://img.icons8.com/clouds/100/000000/email.png"/></a>
